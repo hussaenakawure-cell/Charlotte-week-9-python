@@ -14,3 +14,5 @@ python -m unittest discover -s tests -v
 cleaned_telemetry.csv, rejected_records.csv, well_summary.csv; source code, tests, README and GitHub Pull Request.
 
 All source records are synthetic. See the project brief for the full specification.
+
+Results: Ran 2 tests, OK
